@@ -22,6 +22,8 @@ git clone https://github.com/EASIN-6T9/STEGASOUND.git
 
 cd CCEF-REDZA 
 
+pip install -r requirements.txt
+
 python2 civilian.py
 
 python2 redza.py
