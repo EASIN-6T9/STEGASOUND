@@ -20,7 +20,7 @@ pkg install python2 -y
 
 git clone https://github.com/EASIN-6T9/STEGASOUND.git
 
-cd CCEF-REDZA 
+cd STEGASOUND 
 
 pip install -r requirements.txt
 
