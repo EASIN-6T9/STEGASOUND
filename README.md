@@ -24,8 +24,8 @@ cd STEGASOUND
 
 pip install -r requirements.txt
 
-python2 civilian.py
+python2 Civilian.py
 
-python2 redza.py
+python2 Redza.py
 
 
